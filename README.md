@@ -25,7 +25,7 @@ Themes are specified as json style dicts. For example the default theme is:
 
 ##Screenshot
 
-![Screenshot](https://github.com/rupeshk/MarkdownHighlighter/screenshot.png)
+![Screenshot](https://github.com/rupeshk/MarkdownHighlighter/raw/master/screenshot.png)
 
 ##Requirements
 
